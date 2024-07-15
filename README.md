@@ -1,13 +1,5 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Egor
-============================================================================================================================
-
 Backend Developer (Go/Golang)
 -----------------------------
-
-* 🌍  I'm based in Moscow
-* 🖥️  See my portfolio at [GitHub](http://github.com/mrRestyling?tab=repositories)
-* ✉️  You can contact me at [https://t.me/mr\_restyling](mailto:https://t.me/mr_restyling)
-* 🤝  I'm open to collaborating on work, startups
 
 <a href="https://www.github.com/mrRestyling" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/mrRestyling?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
