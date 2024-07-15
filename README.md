@@ -1,10 +1,6 @@
 Backend Developer (Go/Golang)
 -----------------------------
 
-<a href="https://www.github.com/mrRestyling" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/mrRestyling?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
-
 
 
 ### Socials
@@ -13,11 +9,11 @@ src="https://img.shields.io/github/followers/mrRestyling?logo=github&style=for-t
 
 ### Badges
 
-<b>My GitHub Stats</b>
+![codewars](https://www.codewars.com/users/mrRestyling/badges/large)
 
 <a href="http://www.github.com/mrRestyling"><img src="https://github-readme-stats.vercel.app/api?username=mrRestyling&show_icons=true&hide=issues,&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="mrRestyling's GitHub stats" /></a>
 
-![codewars](https://www.codewars.com/users/mrRestyling/badges/large)
+
 
 ### Skills
 
